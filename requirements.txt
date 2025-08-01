@@ -1,8 +1,3 @@
-streamlit
-openai
-langchain
+neo4j
 pandas
-PyPDF2
-python-docx
-faiss-cpu
-tiktoken
+openai
